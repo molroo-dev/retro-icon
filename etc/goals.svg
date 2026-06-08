@@ -1,0 +1,26 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="icon_gradient" x1="100" y1="100" x2="412" y2="412" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6366f1" />
+      <stop offset="1" stop-color="#8b5cf6" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background with Gradient -->
+  <rect x="0" y="0" width="512" height="512" fill="#aeaeffff"/>
+  <circle cx="256" cy="256" r="200" fill="url(#icon_gradient)"/>
+  
+  <!-- Calendar Icon -->
+  <rect x="140" y="160" width="232" height="212" rx="36" stroke="white" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Header Separator -->
+  <path d="M140 230H372" stroke="white" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Hooks -->
+  <path d="M200 130V160" stroke="white" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M312 130V160" stroke="white" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Content Lines (replacing checkmark) -->
+  <!-- <path d="M190 285H322" stroke="white" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M190 315H322" stroke="white" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/> -->
+</svg>

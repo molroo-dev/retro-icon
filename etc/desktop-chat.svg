@@ -1,0 +1,21 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Desktop Screen Base -->
+  <rect x="2" y="4" width="28" height="20" fill="#C0C0C0" stroke="black" stroke-width="1.5"/>
+  <rect x="4" y="6" width="24" height="14" fill="#008080"/> <!-- Classic Teal Background -->
+  <rect x="2" y="24" width="28" height="2" fill="#808080"/>
+  
+  <!-- Stand -->
+  <path d="M12 26H20L22 30H10L12 26Z" fill="#808080" stroke="black" stroke-width="1"/>
+  
+  <!-- Chat Bubble Overlay -->
+  <path d="M14 10C14 8.89543 14.8954 8 16 8H26C27.1046 8 28 8.89543 28 10V18C28 19.1046 27.1046 20 26 20H20L16 24V20H16C14.8954 20 14 19.1046 14 18V10Z" fill="white" stroke="black" stroke-width="1"/>
+  
+  <!-- Lines in Chat Bubble -->
+  <line x1="18" y1="12" x2="24" y2="12" stroke="#0000FF" stroke-width="1.5"/>
+  <line x1="18" y1="15" x2="22" y2="15" stroke="#0000FF" stroke-width="1.5"/>
+  
+  <!-- Tiny People (Dots) on Desktop -->
+  <circle cx="8" cy="10" r="1.5" fill="#FFFF00"/>
+  <circle cx="12" cy="14" r="1.5" fill="#00FF00"/>
+  <circle cx="8" cy="17" r="1.5" fill="#FF00FF"/>
+</svg>
